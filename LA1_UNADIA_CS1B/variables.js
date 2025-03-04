@@ -1,3 +1,4 @@
+//UNADIA AARUME XANDER BSCS-1B 
 let name = "Aarume Xander Unadia"; // Create variable name (name) & store your name.
 let whatDoYouWannaBecomeInYourLife = "programmer"; // Create variable name (whatDoYouWannaBecomeInYourLife) & store "programmer"
 let gender = "Male"; // Create variable name (gender) & store your gender.
